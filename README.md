@@ -1,6 +1,6 @@
 # PalGuard v1.1273 (PalWorld Server AntiCheat)
 
-#### English / [简体中文](/README_ZH_CN.md)
+#### English / [繁體中文](/README_ZH_TW.md)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T014OZZB)
 
@@ -102,7 +102,7 @@ All around PalGuard and its usage can be found in the [Wiki](Wiki/README.md).
 
 ## Afterwords [↑](#palguard-v11066-palworld-server-anticheat)
 
-**私たちは、[Pocketpair, Inc.](https://www.pocketpair.jp/palworld)による素晴らしい仕事に感謝の意を表したいと思います。色鮮やかな世界や、パルとのダイナミックなインタラクション、そして創造的なデザインは、チームの献身と情熱を見事に表しています。コミュニティの一員として、私たちはPalServer向けのプラグインを開発し、セキュリティを強化し、潜在的な悪用から守ることでPalworldをサポートしています**
+**私たちは、[Pocketpair, Inc.](https://www.pocketpair.jp/palworld)による素晴らしい仕事に感謝の意を表したいと思います。色鮮やかな世界や、パルとのダイナミックなインタラクション、そして創造的なデザインは、チームの獻身と情熱を見事に表しています。コミュニティの一員として、私たちはPalServer向けのプラグインを開発し、セキュリティを強化し、潛在的な悪用から守ることでPalworldをサポートしています**
 
 **私たちは今後も、Palworldサーバーに最高水準のセキュリティと保護を提供できるよう努め続けます。皆様からのフィードバックは非常に貴重で、心から感謝しています。**<br>
 ~ [Zvend](https://github.com/Zvendson)
