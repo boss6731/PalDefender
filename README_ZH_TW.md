@@ -87,7 +87,7 @@
 
 ## Wiki [↑](#palguard-v11066-幻獸帕魯伺服器反作弊)
 
-關於 PalGuard 和它的使用，詳細資訊可以檢視 [Wiki](Wiki/README_ZH_CN.md)。
+關於 PalGuard 和它的使用，詳細資訊可以檢視 [Wiki](Wiki/README_ZH_TW.md)。
 
 <br>
 
