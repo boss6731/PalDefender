@@ -1,6 +1,6 @@
 ### [<<<](README.md) Data Lists
 
-#### English / [简体中文](./Pals_ZH_CN.md)
+#### English / [繁體中文](./Pals_ZH_TW.md)
 
 # Pals
 A list of pals in Palworld, including their asset names for spawning purposes.
