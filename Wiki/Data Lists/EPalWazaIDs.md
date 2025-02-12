@@ -1,6 +1,6 @@
 ### [<<<](README.md) Data Lists
 
-#### English / [简体中文](./EPalWazaIDs_ZH_CN.md)
+#### English / [繁體中文](./EPalWazaIDs_ZH_TW.md)
 
 # EPalWaza IDs
 Feel free to contribute!
