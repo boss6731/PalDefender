@@ -1,6 +1,6 @@
 ### [<<<](../README_ZH_TW.md) Wiki
 
-#### [English](./README.md) / 簡體中文
+#### [English](./README.md) / 繁體中文
 
 # 數據列表
 
