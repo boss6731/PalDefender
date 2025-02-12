@@ -1,6 +1,6 @@
 ### [<<<](README.md) File Types
 
-#### English / [简体中文](./PalJSON_ZH_CN.md)
+#### English / [繁體中文](./PalJSON_ZH_TW.md)
 
 # PalJSON
 
